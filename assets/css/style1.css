@@ -1,4 +1,17 @@
 .btn-warning{
 background-color: yellow;
 color: black;
+font-weight: bold;
+}
+
+
+.titulo{
+font-weight: bold;
+font-size: 35px;
+}
+
+.card-text3{
+font-weight: bold;
+
+
 }
