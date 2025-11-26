@@ -1,9 +1,14 @@
+.titulo{
+    color:white;
+}
+
 .text-small{
-    font-size: 12px;
+    font-size: 14px;
+    color: white;
     }
     
 .text-large{
-    font-size: 20px;
+    font-size: 18px;
     font-weight: 700;
 }
 
@@ -18,4 +23,15 @@
     font-weight: 500;
 }
 
+.container{
+    display: flex;
 
+}
+
+.colm1{
+    margin-right: 175px;
+}
+
+.colm2{
+    margin-left: 195px;
+}
