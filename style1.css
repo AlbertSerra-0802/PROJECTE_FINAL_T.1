@@ -10,6 +10,7 @@
 
 .text-small2{
     color:black;
+    text-align: left;
 
 }
     
@@ -29,7 +30,7 @@
     font-weight: 500;
 }
 
-.container{
+.custom-container{
     display: flex;
 
 }
@@ -46,6 +47,48 @@
     margin-left: 195px;
 }
 
-.purple{
-    color: blueviolet;
+
+.colm3{
+    width: 250px;
+    margin-left: 18px;
+    margin: 10px ;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.category-card{
+    background-color:#ffffff;
+    border-radius: 12px;
+    padding: 20px;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+    text-align: left;
+    width: 260px;
+    margin: auto;
+}
+
+
+
+.category-icon{
+    width: 60px;
+    margin-bottom: 10px;
+}
+
+
+.category-title{
+    font-weight: 700;
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+
+.category-text{
+    font-size: 14px;
+    margin: 0;
+    color: #4e4e4e;
+
+}
+
+
+.highlight{
+    background-color: #fddc74 !important;
 }
