@@ -1,11 +1,17 @@
 .titulo{
+    font-size: 80px;
     color:white;
 }
 
 .text-small{
-    font-size: 14px;
+    font-size: 25px;
     color: white;
     }
+
+.text-small2{
+    color:black;
+
+}
     
 .text-large{
     font-size: 18px;
@@ -28,10 +34,18 @@
 
 }
 
+.bg-secondary{
+   background-color: #9696b8;
+
+}
 .colm1{
     margin-right: 175px;
 }
 
 .colm2{
     margin-left: 195px;
+}
+
+.purple{
+    color: blueviolet;
 }
