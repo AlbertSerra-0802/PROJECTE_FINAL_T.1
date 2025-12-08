@@ -3,8 +3,12 @@
     color:white;
 }
 
+.container_purple{
+    background-color: plum;
+    padding: 25px;
+}
 .text-small{
-    font-size: 25px;
+    font-size: 20px;
     color: white;
     }
 
@@ -165,5 +169,16 @@
 .social-icon{
     width: 24px;
     height: 24px;
+}
+
+.container_yellow{
+    background-color: #fddc74;
+    padding: 25px;
+}
+
+.linea-vertical{
+    height: 60px;
+    width: 1px;
+    background-color: black;
 }
 
