@@ -5,7 +5,7 @@
 
 .container_purple{
     background-color: plum;
-    padding: 25px;
+    padding: 50px;
 }
 .text-small{
     font-size: 20px;
@@ -175,6 +175,7 @@
     background-color: #fddc74;
     padding: 25px;
 }
+
 
 .linea-vertical{
     height: 60px;
