@@ -183,4 +183,7 @@
     background-color: black;
 }
 
-.img-fluid{}
+.post-image{
+    height: 280px;
+    width: 300px;
+}
