@@ -60,7 +60,7 @@
 .colm3{
     width: 250px;
     margin-left: 18px;
-    margin: 10px ;
+    margin: 10px;
     padding: 20px;
     border-radius: 15px;
 }
@@ -71,7 +71,6 @@
     padding: 20px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.1);
     text-align: left;
-    width: 300px;
     margin: auto;
     margin-bottom: 20px;
 }
@@ -192,4 +191,12 @@
 
 .container_morado{
     background-color: #5E3BEE;
+    margin: 0 auto;
+    max-width: 990px;
+}
+
+.form-group{
+    max-width: 990px;
+    margin: 0 auto;
+
 }
