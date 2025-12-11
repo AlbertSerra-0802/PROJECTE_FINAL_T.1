@@ -26,6 +26,6 @@ L’objectiu del projecte és replicar fidelment el disseny, utilitzant componen
   — **Cards**
   — **Navbars**
   — **Buttons**
-  — Utilitats (padding, margin, colors…)
+  — **Utilitats (padding, margin, colors…)**
 
 
