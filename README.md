@@ -4,12 +4,13 @@ Aquest projecte consisteix en el desenvolupament d’un lloc web complet inspira
 L’objectiu del projecte és replicar fidelment el disseny, utilitzant components responsius i bones pràctiques de maquetació.
 
 # Tecnologies utilitzades
-  HTML5
-  CSS3
-  Bootstrap 
+  **HTML5**
+  **CSS**
+  **Bootstrap** 
 
   — Cards
   — Navbars
   — Buttons
   — Utilitats (padding, margin, colors…)
+
 
