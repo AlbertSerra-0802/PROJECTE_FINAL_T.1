@@ -21,6 +21,17 @@ L’objectiu del projecte és replicar fidelment el disseny, utilitzant componen
 
 - **Afegit un botó "Subscribe" amb estil propi**.
 
+# 2. Hero Section (Imatge principal amb text)
+
+    Funcions aplicades:
+
+- **Afegit un botó "Subscribe" amb estil propi**.
+
+    - **Superposició de text amb card-img**.
+
+    - **Ús de tipografies personalitzades (titulo, text-small)**.
+
+
 - **Fons personalitzat amb la classe .bg-azul**.
   
   — **Cards**
