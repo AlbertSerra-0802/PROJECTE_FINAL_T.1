@@ -4,9 +4,22 @@ Aquest projecte consisteix en el desenvolupament d’un lloc web complet inspira
 L’objectiu del projecte és replicar fidelment el disseny, utilitzant components responsius i bones pràctiques de maquetació.
 
 # Tecnologies utilitzades
-  **HTML5**
-  **CSS**
-  **Bootstrap** 
+  - **HTML5**
+  - **CSS**
+  - **Bootstrap** 
+
+# 1. Navbar (Header)
+
+Funcions aplicades:
+
+navbar, navbar-expand-lg, container-fluid
+
+Botó hamburger per a mòbil
+
+Menú alineat a la dreta amb justify-content-end
+
+Botó Subscribe amb Bootstrap btn btn-light
+  
 
   — Cards
   — Navbars
