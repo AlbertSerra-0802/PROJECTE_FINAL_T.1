@@ -11,17 +11,21 @@ L’objectiu del projecte és replicar fidelment el disseny, utilitzant componen
 # 1. Navbar (Header)
   Funcions aplicades:
 
-- navbar, navbar-expand-lg, container-fluid
+- **Ús de la classe navbar de Bootstrap per generar una barra de navegació responsiva**.
 
-- Botó hamburger per a mòbil
+- **Implementació de navbar-expand-lg perquè el menú col·lapsi en pantalles petites**.
 
-- Menú alineat a la dreta amb justify-content-end
+- **Botó funcional amb data-bs-toggle="collapse" i data-bs-target="#navMenu"**.
 
-- Botó Subscribe amb Bootstrap btn btn-light
+- **Alineació del menú a la dreta amb justify-content-end**.
+
+- **Afegit un botó "Subscribe" amb estil propi**.
+
+- **Fons personalitzat amb la classe .bg-azul**.
   
-  — Cards
-  — Navbars
-  — Buttons
+  — **Cards**
+  — **Navbars**
+  — **Buttons**
   — Utilitats (padding, margin, colors…)
 
 
