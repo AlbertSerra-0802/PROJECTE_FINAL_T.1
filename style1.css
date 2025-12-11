@@ -5,7 +5,7 @@
 }
 
 .container_purple{
-    background-color: plum;
+    background-color: rgb(237, 234, 251);
     padding: 50px;
 }
 .text-small{
@@ -188,4 +188,8 @@
 .post-image{
     height: 280px;
     width: 300px;
+}
+
+.container_morado{
+    background-color: #5E3BEE;
 }
