@@ -9,18 +9,16 @@ L’objectiu del projecte és replicar fidelment el disseny, utilitzant componen
   - **Bootstrap** 
 
 # 1. Navbar (Header)
+  Funcions aplicades:
 
-Funcions aplicades:
+- navbar, navbar-expand-lg, container-fluid
 
-navbar, navbar-expand-lg, container-fluid
+- Botó hamburger per a mòbil
 
-Botó hamburger per a mòbil
+- Menú alineat a la dreta amb justify-content-end
 
-Menú alineat a la dreta amb justify-content-end
-
-Botó Subscribe amb Bootstrap btn btn-light
+- Botó Subscribe amb Bootstrap btn btn-light
   
-
   — Cards
   — Navbars
   — Buttons
